@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Piotr Laskowski</h1>
+<h1 align="center">Hi 👋
+  I'm Piotr Laskowski</h1>
 <h3 align="center">A passionate embedded system engineer from Poland</h3>
 
 - 🔭 I’m currently working on [autoClicker Project](https://github.com/git-piotrLaskowski/autoClicker)
